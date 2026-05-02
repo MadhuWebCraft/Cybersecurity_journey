@@ -1,0 +1,98 @@
+# 📅 Day 02 (May 2, 2026)
+
+## 🎯 Focus
+
+Hands-on practice with network analysis and building foundational Linux knowledge for cybersecurity.
+
+---
+
+## 📚 Topics Covered
+
+### 🔹 Wireshark
+
+* Packet capturing and analysis
+* Applied filters:
+
+  * `dns`
+  * `tcp`
+  * `http`
+* Observed real-time network traffic
+
+---
+
+### 🔹 Google Cybersecurity Certificate
+
+**Course:** Tools of the Trade: Linux and SQL
+**Module 2: Linux Fundamentals**
+
+Covered:
+
+* Introduction to Linux
+* Linux architecture (kernel, shell, file system)
+* Components of Linux OS
+* Linux distributions (including Kali Linux)
+* Package managers (installing software)
+* Introduction to shell
+* Input and output in shell
+
+---
+
+## 🧠 Key Learnings
+
+* Linux architecture consists of:
+
+  * Kernel → core of OS
+  * Shell → interface for user interaction
+* Learned about different Linux distributions and their use cases in cybersecurity
+* Understood how package managers help install and manage software
+* Basic understanding of shell operations and input/output handling
+* In Wireshark:
+
+  * DNS resolves domain names to IP addresses
+  * TCP communication patterns can be observed
+  * Filters help isolate specific traffic
+
+---
+
+## 🛠️ Hands-on / Practice
+
+* Used Wireshark to:
+
+  * Capture live packets
+  * Apply protocol filters
+  * Analyze source/destination IP and protocols
+
+* Completed Linux module labs and activities
+
+* Completed graded assignments:
+
+  * Linux basics → 81.25%
+  * Linux distributions → 100%
+  * Shell → 100%
+  * Final module assessment → 97.22%
+
+---
+
+## ⚠️ Challenges Faced
+
+* Need more practice with:
+
+  * Shell commands
+  * Understanding deeper packet structure in Wireshark
+
+---
+
+## 🔁 Plan for Tomorrow
+
+* Continue networking (TCP/IP, DNS deeper)
+* Practice Wireshark:
+
+  * Follow TCP stream
+  * Analyze HTTP traffic
+* Start OSINT basics
+
+---
+
+## 💭 Reflection
+
+A productive day combining both theory and hands-on learning. Gained clarity on Linux fundamentals and improved confidence in using Wireshark. Next focus is to strengthen practical skills and consistency.
