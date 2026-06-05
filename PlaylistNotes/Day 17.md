@@ -1,4 +1,60 @@
-thm
+📅 Day 17 (June 5, 2026)
+
+🎯 Focus
+Resuming cybersecurity learning after dedicating significant time to an academic project while continuing hands-on practice and certification progress.
+
+📌 Note on Recent Gap
+
+Learning activities were limited on June 3 and June 4 due to a major academic project commitment. A significant amount of time was spent on the implementation, testing, and completion of the project deliverables, leaving little time for cybersecurity studies. With the project work completed, regular learning activities have now resumed.
+
+📚 Topics Covered
+
+🔹 TryHackMe
+
+Continued progressing through cybersecurity learning paths and hands-on exercises.
+
+Practiced cybersecurity concepts through guided labs and learning activities.
+
+🔹 Google Cybersecurity Professional Certificate
+
+Continued progress in Course 6: Sound the Alarm: Detection and Response.
+
+Reviewed concepts related to threat detection, monitoring, and incident response.
+
+🧠 Key Learnings
+
+Consistency is important, but balancing academic responsibilities and cybersecurity learning is equally necessary.
+
+Hands-on practice remains one of the most effective ways to reinforce cybersecurity concepts.
+
+Detection and response skills continue to be a core area of learning for SOC Analyst preparation.
+
+🛠️ Hands-on / Practice
+
+Continued TryHackMe learning activities and labs.
+
+Continued coursework in the Google Cybersecurity Professional Certificate.
+
+📸 Proof
+
+🔹 TryHackMe progress/completion screenshot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b8e18a2-241d-49e6-b09d-ebcf91fe345e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7916d280-eee4-4ba8-9423-45efeb2872db" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1387461-954a-438d-a661-d46e7ec23fe0" />
+
+⚠️ Challenges Faced
+
+Managing project deadlines alongside cybersecurity learning was challenging this week. Time management became important as academic responsibilities temporarily reduced study time.
+
+🔁 Plan for Tomorrow
+
+Continue progressing through TryHackMe rooms.
+
+Advance further in the Google Cybersecurity Professional Certificate.
+
+Resume regular hands-on cybersecurity practice and maintain learning consistency.
+
+💭 Reflection
+
+Although project responsibilities limited my cybersecurity study time over the past few days, I was able to return to my learning routine today. Balancing academics and skill development can be challenging, but steady progress and consistency remain the goal.
+
